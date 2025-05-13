@@ -50,7 +50,7 @@ java CommandLineArguments 5 10
 
 ## 💡 Author
 
-- [GPTCTN](https://github.com/your-username)
+- [Frankie](https://github.com/Frankiye04)
 
 ## 📝 License
 
